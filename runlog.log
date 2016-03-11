@@ -1,0 +1,6577 @@
+Buildfile: D:\Jira\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0 rc3
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Jira\reader5.0\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Jira\reader5.0\bin\classes
+      [dex] input: D:\Jira\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-c7a2983778c0a407c85c55e3bdf3e0d9.jar <- D:\Jira\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Jira\reader5.0\bin\classes.dex...
+       [dx] Merged dex A (8 defs/74.0KiB) with dex B (279 defs/574.1KiB). Result is 287 defs/815.4KiB. Took 0.6s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Jira\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+4829 KB/s (271998 bytes in 0.055s)
+Buildfile: D:\Jira\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0 rc3
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Jira\reader5.0\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Jira\reader5.0\bin\classes
+      [dex] input: D:\Jira\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-c7a2983778c0a407c85c55e3bdf3e0d9.jar <- D:\Jira\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Jira\reader5.0\bin\classes.dex...
+       [dx] Merged dex A (8 defs/74.0KiB) with dex B (279 defs/574.1KiB). Result is 287 defs/815.4KiB. Took 0.6s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Jira\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+4742 KB/s (271972 bytes in 0.056s)
+Segmentation fault (core dumped) 
+
+Buildfile: D:\Jira\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.3
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0 rc3
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Jira\reader5.0\bin\classes
+      [dex] input: D:\Jira\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-c7a2983778c0a407c85c55e3bdf3e0d9.jar <- D:\Jira\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Jira\reader5.0\bin\classes.dex...
+       [dx] Merged dex A (8 defs/74.0KiB) with dex B (279 defs/574.1KiB). Result is 287 defs/815.4KiB. Took 0.6s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Jira\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+6477 KB/s (271972 bytes in 0.041s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test000FristOpen
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test000FristOpen
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 20.9
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: D:\IDEA\reader5.0\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 7 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (12 defs/88.0KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 116 defs/425.3KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 15 seconds
+2288 KB/s (140603 bytes in 0.060s)
+java.io.IOException: Error running exec(). Command: [ro.yunos.build.version] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:173)
+
+	at java.lang.Runtime.exec(Runtime.java:246)
+
+	at java.lang.Runtime.exec(Runtime.java:189)
+
+	at com.meizu.reader.test.TestScript.isYunos(TestScript.java:127)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.initial(ReaderSanityTestCase.java:187)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:34)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+Caused by: java.io.IOException: Permission denied
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 12 more
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test000FristOpen
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test000FristOpen
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test000FristOpen
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 10.394
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (12 defs/88.1KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 116 defs/425.3KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 7 seconds
+4428 KB/s (140602 bytes in 0.031s)
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test000FristOpen
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test000FristOpen
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test000FristOpen
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 9.422
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (12 defs/88.1KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 116 defs/425.3KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+adb server is out of date.  killing...
+* daemon started successfully *
+3268 KB/s (140602 bytes in 0.042s)
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test000FristOpen
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test000FristOpen
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test000FristOpen
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 9.79
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (12 defs/88.4KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 116 defs/425.7KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 7 seconds
+4736 KB/s (140682 bytes in 0.029s)
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test002EnterReader
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+am start -n com.meizu.account/com.meizu.account.AccountCenterActivity
+
+当前无账户登录
+
+9
+
+科技
+
+天下事
+
+娱乐
+
+生活
+
+财经
+
+体育
+
+-----------------
+
+娱乐
+
+财经
+
+生活
+
+天下事
+
+头条
+
+体育
+
+科技
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test002EnterReader
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test002EnterReader
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 44.34
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/88.8KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/426.3KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+adb server is out of date.  killing...
+* daemon started successfully *
+3356 KB/s (140926 bytes in 0.041s)
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test002EnterReader
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+am start -n com.meizu.account/com.meizu.account.AccountCenterActivity
+
+当前无账户登录
+
+9
+
+科技
+
+天下事
+
+娱乐
+
+生活
+
+财经
+
+体育
+
+-----------------
+
+财经
+
+推荐
+
+天下事
+
+头条
+
+体育
+
+娱乐
+
+生活
+
+科技
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test002EnterReader
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test002EnterReader
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 44.022
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/88.8KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/426.3KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4300 KB/s (140923 bytes in 0.032s)
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003EnterReader
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+am start -n com.meizu.account/com.meizu.account.AccountCenterActivity
+
+当前无账户登录
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003EnterReader
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test003EnterReader:
+
+junit.framework.AssertionFailedError: 集合不止一个
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003EnterReader(ReaderSanityTestCase.java:333)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:114)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003EnterReader
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: 集合不止一个
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003EnterReader(ReaderSanityTestCase.java:333)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:114)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 37.036
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/89.0KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/426.4KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+adb server is out of date.  killing...
+* daemon started successfully *
+3059 KB/s (140994 bytes in 0.045s)
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003EnterReader
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+am start -n com.meizu.account/com.meizu.account.AccountCenterActivity
+
+当前无账户登录
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003EnterReader
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003EnterReader
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 36.895
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/89.0KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/426.4KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+adb server is out of date.  killing...
+* daemon started successfully *
+3059 KB/s (140994 bytes in 0.045s)
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003EnterReader
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+am start -n com.meizu.account/com.meizu.account.AccountCenterActivity
+
+当前无账户登录
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test003EnterReader
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003EnterReader
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 35.666
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: D:\IDEA\reader5.0\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 7 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/89.4KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/427.0KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 12 seconds
+2758 KB/s (141226 bytes in 0.050s)
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test080HomePageView
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test080HomePageView
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test080HomePageView:
+
+junit.framework.AssertionFailedError: 1
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test080HomePageView(ReaderSanityTestCase.java:2365)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:114)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:284)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test080HomePageView
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: 1
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test080HomePageView(ReaderSanityTestCase.java:2365)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:114)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:284)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 10.137
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/89.5KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/427.1KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4057 KB/s (141264 bytes in 0.034s)
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test080HomePageView
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test080HomePageView
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test080HomePageView
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 9.959
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/89.6KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/427.1KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+2934 KB/s (141243 bytes in 0.047s)
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test080HomePageView
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test080HomePageView
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test080HomePageView
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 10.169
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/89.6KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/427.2KiB. Took 0.4s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4179 KB/s (141248 bytes in 0.033s)
+version : 2.3.1
+
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test080HomePageView
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test080HomePageView
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test080HomePageView
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 8.998
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/89.8KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/427.4KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+3067 KB/s (141346 bytes in 0.045s)
+version : 2.3.1
+
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test069TextFeedback
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+am start -n com.meizu.account/com.meizu.account.AccountCenterActivity
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test069TextFeedback
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+1
+
+2
+
+3
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test069TextFeedback:
+
+com.meizu.automation.constants.AutoException: Element not found with UiObjectNotFoundException: By[RESOURCE_ID=com.meizu.media.reader:id/edit_suggestion]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndSetText(DefaultElement.java:570)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndSetText(DefaultElement.java:579)
+
+	at com.meizu.automation.AutoBaseTestCase.setTextById(AutoBaseTestCase.java:198)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test069TextFeedback(ReaderSanityTestCase.java:2066)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:114)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:284)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test069TextFeedback
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with UiObjectNotFoundException: By[RESOURCE_ID=com.meizu.media.reader:id/edit_suggestion]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndSetText(DefaultElement.java:570)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndSetText(DefaultElement.java:579)
+
+	at com.meizu.automation.AutoBaseTestCase.setTextById(AutoBaseTestCase.java:198)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test069TextFeedback(ReaderSanityTestCase.java:2066)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:114)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:284)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 43.968
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/89.8KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/427.4KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+3632 KB/s (141346 bytes in 0.038s)
+version : 2.3.1
+
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test069TextFeedback
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+am start -n com.meizu.account/com.meizu.account.AccountCenterActivity
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test069TextFeedback
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+1
+
+2
+
+3
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test069TextFeedback:
+
+com.meizu.automation.constants.AutoException: Element not found with UiObjectNotFoundException: By[RESOURCE_ID=com.meizu.media.reader:id/edit_suggestion]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndSetText(DefaultElement.java:570)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndSetText(DefaultElement.java:579)
+
+	at com.meizu.automation.AutoBaseTestCase.setTextById(AutoBaseTestCase.java:198)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test069TextFeedback(ReaderSanityTestCase.java:2067)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:114)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:284)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test069TextFeedback
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with UiObjectNotFoundException: By[RESOURCE_ID=com.meizu.media.reader:id/edit_suggestion]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndSetText(DefaultElement.java:570)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndSetText(DefaultElement.java:579)
+
+	at com.meizu.automation.AutoBaseTestCase.setTextById(AutoBaseTestCase.java:198)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test069TextFeedback(ReaderSanityTestCase.java:2067)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:114)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:284)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 32.549
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/89.8KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/427.4KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+* daemon not running. starting it now on port 5037 *
+* daemon started successfully *
+3001 KB/s (141390 bytes in 0.046s)
+version : 2.3.1
+
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test069TextFeedback
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+am start -n com.meizu.account/com.meizu.account.AccountCenterActivity
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test069TextFeedback
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+1
+
+2
+
+3
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test069TextFeedback
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 35.994
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 4 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/90.6KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/428.3KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4324 KB/s (141713 bytes in 0.032s)
+version : 2.3.1
+
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test070ImageFeedback
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+am start -n com.meizu.account/com.meizu.account.AccountCenterActivity
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test070ImageFeedback
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+1
+
+2
+
+3
+
+4
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test070ImageFeedback:
+
+com.meizu.automation.constants.AutoException: Element not found with UiObjectNotFoundException: By[RESOURCE_ID=com.meizu.feedback:id/image_thumbnail]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:586)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:593)
+
+	at com.meizu.automation.AutoBaseTestCase.click(AutoBaseTestCase.java:266)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test070ImageFeedback(ReaderSanityTestCase.java:2104)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:114)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:284)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test070ImageFeedback
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with UiObjectNotFoundException: By[RESOURCE_ID=com.meizu.feedback:id/image_thumbnail]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:586)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:593)
+
+	at com.meizu.automation.AutoBaseTestCase.click(AutoBaseTestCase.java:266)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test070ImageFeedback(ReaderSanityTestCase.java:2104)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:114)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:284)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 47.201
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/90.6KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/428.3KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4069 KB/s (141713 bytes in 0.034s)
+version : 2.3.1
+
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test070ImageFeedback
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+am start -n com.meizu.account/com.meizu.account.AccountCenterActivity
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test070ImageFeedback
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+1
+
+2
+
+3
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test070ImageFeedback
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 55.0
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.7KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.5KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+3229 KB/s (142206 bytes in 0.043s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.dragTo(DefaultElement.java:269)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:387)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.dragTo(DefaultElement.java:269)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:387)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 28.901
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.7KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.5KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4084 KB/s (142211 bytes in 0.034s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.dragTo(DefaultElement.java:269)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:387)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.dragTo(DefaultElement.java:269)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:387)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 28.646
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.6KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.5KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4086 KB/s (142276 bytes in 0.034s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 27.68
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.6KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.5KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+6946 KB/s (142276 bytes in 0.020s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 29.112
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+5343 KB/s (142276 bytes in 0.026s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 27.909
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4481 KB/s (142276 bytes in 0.031s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 30.051
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+5556 KB/s (142276 bytes in 0.025s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 27.07
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4341 KB/s (142276 bytes in 0.032s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 28.862
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4481 KB/s (142276 bytes in 0.031s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 29.705
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4630 KB/s (142276 bytes in 0.030s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with By[INSTANCE=5, RESOURCE_ID=com.meizu.media.reader:id/tv_news_item_title]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.getText(DefaultElement.java:417)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:386)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 29.026
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.2KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.0KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+3962 KB/s (142045 bytes in 0.035s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 17.897
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.3KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.0KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+3853 KB/s (142061 bytes in 0.036s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+: 
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 17.575
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4954 KB/s (142061 bytes in 0.028s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+: 
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 16.827
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+5137 KB/s (142061 bytes in 0.027s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+: 
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 16.295
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4079 KB/s (142061 bytes in 0.034s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+: 
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 15.554
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4203 KB/s (142061 bytes in 0.033s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+: 
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 17.25
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.3KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.1KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4334 KB/s (142060 bytes in 0.032s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 17.041
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.3KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.1KiB. Took 0.4s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4474 KB/s (142060 bytes in 0.031s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test000
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+01234INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test000
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test000
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 9.935
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+5137 KB/s (142060 bytes in 0.027s)
+java.lang.RuntimeException: Didn't find class "com.meizu.reader.test.test003Recommend" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/sdcard/reader.jar"],nativeLibraryDirectories=[/vendor/lib64, /system/lib64]]
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:110)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+Caused by: java.lang.ClassNotFoundException: Didn't find class "com.meizu.reader.test.test003Recommend" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/sdcard/reader.jar"],nativeLibraryDirectories=[/vendor/lib64, /system/lib64]]
+
+	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+
+	at com.android.uiautomator.testrunner.TestCaseCollector.addTestClass(TestCaseCollector.java:84)
+
+	at com.android.uiautomator.testrunner.TestCaseCollector.addTestClass(TestCaseCollector.java:72)
+
+	at com.android.uiautomator.testrunner.TestCaseCollector.addTestClasses(TestCaseCollector.java:53)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:107)
+
+	... 5 more
+
+	Suppressed: java.lang.ClassNotFoundException: com.meizu.reader.test.test003Recommend
+
+		at java.lang.Class.classForName(Native Method)
+
+		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+
+		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+
+		... 10 more
+
+	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.meizu.reader.test.test003Recommend" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/sdcard/reader.jar"],nativeLibraryDirectories=[/vendor/lib64, /system/lib64]]
+
+INSTRUMENTATION_CODE: 0
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4334 KB/s (142060 bytes in 0.032s)
+java.lang.RuntimeException: Didn't find class "com.meizu.reader.test.test003Recommend" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/sdcard/reader.jar"],nativeLibraryDirectories=[/vendor/lib64, /system/lib64]]
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:110)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+Caused by: java.lang.ClassNotFoundException: Didn't find class "com.meizu.reader.test.test003Recommend" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/sdcard/reader.jar"],nativeLibraryDirectories=[/vendor/lib64, /system/lib64]]
+
+	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+
+	at com.android.uiautomator.testrunner.TestCaseCollector.addTestClass(TestCaseCollector.java:84)
+
+	at com.android.uiautomator.testrunner.TestCaseCollector.addTestClass(TestCaseCollector.java:72)
+
+	at com.android.uiautomator.testrunner.TestCaseCollector.addTestClasses(TestCaseCollector.java:53)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:107)
+
+	... 5 more
+
+	Suppressed: java.lang.ClassNotFoundException: com.meizu.reader.test.test003Recommend
+
+		at java.lang.Class.classForName(Native Method)
+
+		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+
+		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+
+		... 10 more
+
+	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.meizu.reader.test.test003Recommend" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/sdcard/reader.jar"],nativeLibraryDirectories=[/vendor/lib64, /system/lib64]]
+
+INSTRUMENTATION_CODE: 0
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+3963 KB/s (142060 bytes in 0.035s)
+java.lang.RuntimeException: Didn't find class "com.meizu.reader.test.test003Recommend" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/sdcard/reader.jar"],nativeLibraryDirectories=[/vendor/lib64, /system/lib64]]
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:110)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+Caused by: java.lang.ClassNotFoundException: Didn't find class "com.meizu.reader.test.test003Recommend" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/sdcard/reader.jar"],nativeLibraryDirectories=[/vendor/lib64, /system/lib64]]
+
+	at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:56)
+
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:511)
+
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:469)
+
+	at com.android.uiautomator.testrunner.TestCaseCollector.addTestClass(TestCaseCollector.java:84)
+
+	at com.android.uiautomator.testrunner.TestCaseCollector.addTestClass(TestCaseCollector.java:72)
+
+	at com.android.uiautomator.testrunner.TestCaseCollector.addTestClasses(TestCaseCollector.java:53)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:107)
+
+	... 5 more
+
+	Suppressed: java.lang.ClassNotFoundException: com.meizu.reader.test.test003Recommend
+
+		at java.lang.Class.classForName(Native Method)
+
+		at java.lang.BootClassLoader.findClass(ClassLoader.java:781)
+
+		at java.lang.BootClassLoader.loadClass(ClassLoader.java:841)
+
+		at java.lang.ClassLoader.loadClass(ClassLoader.java:504)
+
+		... 10 more
+
+	Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack available
+
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.meizu.reader.test.test003Recommend" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/sdcard/reader.jar"],nativeLibraryDirectories=[/vendor/lib64, /system/lib64]]
+
+INSTRUMENTATION_CODE: 0
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4623 KB/s (142060 bytes in 0.030s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 17.5
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4628 KB/s (142060 bytes in 0.029s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 17.51
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+4338 KB/s (142060 bytes in 0.031s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 18.762
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: D:\IDEA\reader5.0\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 7 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java:383: �Ƿ������Ϳ�ʼ
+    [javac] 		HashSet<String> paper_title = new HashSet<>();
+    [javac] 		                                          ^
+    [javac] 1 ����
+
+BUILD FAILED
+D:\IDEA\reader5.0\build.xml:101: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
+cannot stat 'D:\IDEA\reader5.0\bin\reader.jar': No such file or directory
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 17.872
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 7 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.6KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.5KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4634 KB/s (142266 bytes in 0.029s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+9
+
+after=9
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 39.499
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.7KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.7KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4963 KB/s (142276 bytes in 0.027s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+before=9
+
+after=19
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+true
+
+true
+
+true
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 74.428
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 3 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.5KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.3KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4205 KB/s (142115 bytes in 0.033s)
+/system/bin/sh: /data/data/com.meizu.scriptkeeper/files/uitest/a5/uiautomator: not found
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.5KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.3KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+6308 KB/s (142115 bytes in 0.022s)
+/system/bin/sh: /data/data/com.meizu.scriptkeeper/files/uitest/a5/uiautomator: not found
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.4KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.2KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+4475 KB/s (142085 bytes in 0.031s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with UiObjectNotFoundException: By[RESOURCE_ID=com.meizu.media.reader:id/remove_fav_article]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:586)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:593)
+
+	at com.meizu.automation.AutoBaseTestCase.click(AutoBaseTestCase.java:266)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:380)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with UiObjectNotFoundException: By[RESOURCE_ID=com.meizu.media.reader:id/remove_fav_article]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:586)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:593)
+
+	at com.meizu.automation.AutoBaseTestCase.click(AutoBaseTestCase.java:266)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:380)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 20.991
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (13 defs/91.4KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 117 defs/429.2KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+5139 KB/s (142087 bytes in 0.027s)
+version : 2.3.2
+
+isYunos : true
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=zh_CN
+
+caseName is : zh_CN-test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test003Recommend:
+
+junit.framework.AssertionFailedError: 3
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:381)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: 3
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:381)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:258)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 22.497
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Buildfile: D:\IDEA\reader5.0\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at E:\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.2
+     [echo] Resolving Build Target for reader...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\IDEA\reader5.0\bin\classes
+    [javac] ���棺jp\jun_nama\test\utf7ime\helper\Utf7ImeHelper.class(jp\jun_nama\test\utf7ime\helper:Utf7ImeHelper.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\BridgeUtil.class(com\meizu\uibridge:BridgeUtil.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ���棺com\meizu\uibridge\NotRootException.class(com\meizu\uibridge:NotRootException.class): ���汾 51 �� 50 �£��˱�����֧�����µ����汾��
+    [javac] ������˱�������
+    [javac] ע�⣺D:\IDEA\reader5.0\src\com\meizu\reader\test\ReaderSanityTestCase.java ʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע�⣺Ҫ�˽���ϸ��Ϣ����ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ����
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\IDEA\reader5.0\bin\classes
+      [dex] input: D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Using Pre-Dexed automation-2604c0ac5c747303c8909a913ad16346.jar <- D:\IDEA\reader5.0\libs\automation.jar
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\IDEA\reader5.0\bin\classes.dex...
+       [dx] Merged dex #1 (14 defs/92.2KiB)
+       [dx] Merged dex #2 (104 defs/257.6KiB)
+       [dx] Result is 118 defs/430.2KiB. Took 0.3s
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\IDEA\reader5.0\bin\reader.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 10 seconds
+4213 KB/s (142390 bytes in 0.033s)
+version : 2.3.1
+
+isYunos : false
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.meizu.reader.test.ReaderSanityTestCase:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+-----setUp-----
+
+-----runTest-----
+
+INSTRUMENTATION_STATUS: language=_
+
+caseName is : test003Recommend
+
+false
+
+false
+
+false
+
+-----tearDown-----
+
+0
+
+1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test003Recommend:
+
+com.meizu.automation.constants.AutoException: Element not found with UiObjectNotFoundException: By[TEXT=推荐]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:586)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:593)
+
+	at com.meizu.automation.AutoBaseTestCase.clickByText(AutoBaseTestCase.java:283)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:376)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:284)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test003Recommend
+
+INSTRUMENTATION_STATUS: class=com.meizu.reader.test.ReaderSanityTestCase
+
+INSTRUMENTATION_STATUS: stack=com.meizu.automation.constants.AutoException: Element not found with UiObjectNotFoundException: By[TEXT=推荐]
+
+	at com.meizu.automation.DefaultElement.notFoundException(DefaultElement.java:34)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:586)
+
+	at com.meizu.automation.DefaultElement.waitForExistsAndClick(DefaultElement.java:593)
+
+	at com.meizu.automation.AutoBaseTestCase.clickByText(AutoBaseTestCase.java:283)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.test003Recommend(ReaderSanityTestCase.java:376)
+
+	at com.meizu.reader.test.ReaderSanityTestCase.runTest(ReaderSanityTestCase.java:115)
+
+	at com.meizu.automation.AutoTestCase.run(AutoTestCase.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:161)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:284)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 18.015
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
